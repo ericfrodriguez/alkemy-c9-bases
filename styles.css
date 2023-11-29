@@ -1,0 +1,19 @@
+.hidden {
+    display: none;
+}
+
+.bg-red {
+    background-color: rgb(255, 66, 66);
+}
+
+.bg-blue {
+    background-color: rgb(48, 48, 255);
+}
+
+.text-xl {
+    font-size: 24px;
+}
+
+.text-bold {
+    font-weight: 800;
+}
