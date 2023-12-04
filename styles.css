@@ -17,3 +17,18 @@
 .text-bold {
     font-weight: 800;
 }
+
+.mouse-container {
+    margin: 10px;
+    /* background-color: red; */
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid gray;
+}
+
+hr {
+    margin: 20px 0px;
+}
